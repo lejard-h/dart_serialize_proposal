@@ -261,6 +261,7 @@ main() {
 * [`package:build_value`](https://pub.dartlang.org/packages/built_value)
 * [`package:owl`](https://pub.dartlang.org/packages/owl)
 * [`package:streamy`](https://pub.dartlang.org/packages/streamy)
+* [`package:jaguar_serializer`](https://pub.dartlang.org/packages/jaguar_serializer)
 
 ### Use javascript interop
 
